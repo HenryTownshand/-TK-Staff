@@ -1,4 +1,3 @@
-
 #include <sourcemod>
 #include <sdktools>
 #include <csgo_colors>
