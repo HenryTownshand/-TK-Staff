@@ -6,5 +6,5 @@
 3. Щит
 
 Команды:
-Меню: !staff
-Выдавать: !staff <#userid/@all/@me/@t/ct..> <0/1/2>
+Меню !staff
+Выдавать !staff <#userid/@all/@me/@t/ct..> <0/1/2>
