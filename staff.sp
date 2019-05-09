@@ -17,7 +17,7 @@ public Plugin myinfo =
 
 public void OnPluginStart()
 {
-	RegAdminCmd("sm_stuff", Command, ADMFLAG_BAN);
+	RegAdminCmd("sm_staff", Command, ADMFLAG_BAN);
 	HookEvent("round_start", RoundStart);
 	ResetStatus();
 }
